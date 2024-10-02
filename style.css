@@ -27,7 +27,7 @@ nav {
     font-weight: 400;
 }
 
-
+grafico.className = 'grafico'
 nav a {
     text-decoration: none;
     color: var(--bg-color);
@@ -37,7 +37,7 @@ nav a {
 
 header {
     background-color: var(--primary-color);
-    text-align: center;
+    text-align: center;grafico.className = 'grafico'
     padding: 1px;
 }
 
@@ -75,4 +75,5 @@ footer {
     color: var(--secondary-color);
    }
    /* Fim codigos aula 06*/
+
 
